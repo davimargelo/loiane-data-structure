@@ -1,8 +1,10 @@
 package queue.data;
 
 import lombok.Getter;
+import lombok.ToString;
 
 @Getter
+@ToString
 public class Person implements Comparable<Person> {
 
     private String name;
