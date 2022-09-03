@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9005c25-190f-496e-8eef-c969a99059a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue/labs/QueueEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queue/labs/QueueEx4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +60,13 @@
       <command value="mvn clean install -U" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueueEx4">
-    <configuration name="QueueEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.labs.QueueEx1" />
+  <component name="RunManager" selected="Application.LinkedListTest">
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.test.LinkedListTest" />
       <module name="data-structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue.labs.*" />
+          <option name="PATTERN" value="list.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.QueueEx4" />
         <item itemvalue="Application.QueueEx3" />
         <item itemvalue="Application.QueueEx2" />
         <item itemvalue="Application.StackEx8" />
-        <item itemvalue="Application.QueueEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,7 @@
       <workItem from="1660487986569" duration="5041000" />
       <workItem from="1660496953095" duration="13573000" />
       <workItem from="1661120471310" duration="15126000" />
-      <workItem from="1662159478704" duration="4059000" />
+      <workItem from="1662159478704" duration="4810000" />
     </task>
     <servers />
   </component>
